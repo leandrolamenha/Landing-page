@@ -1,2 +1,1 @@
-# landing-page
-Landing page do curso TOP
+Teste do projeto final da primeira parte do The Odin Project
